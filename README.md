@@ -1,15 +1,6 @@
 # Python_Practice_Task
 
-Welcome to the **Python_Practice_Task** repository! This repository contains a collection of Python practice tasks, examples, and solutions that will help both beginners and intermediate programmers strengthen their Python skills.
-
-## Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Tasks & Solutions](#tasks--solutions)
-- [Contributing](#contributing)
-- [License](#license)
+Welcome to the **Python_Practice_Task** This repository contains a collection of Python practice tasks, examples, and solutions that will help both beginners and intermediate programmers strengthen their Python skills.
 
 ## About
 
